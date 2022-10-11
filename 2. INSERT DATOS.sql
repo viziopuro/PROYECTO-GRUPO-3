@@ -1,14 +1,14 @@
 -- Grupo 3 INSERT DATOS
 
 insert into grupo3.HUESPED(huesped_id,nombre,apellido,dni,telefono,pais) values (1,'Jose','Diaz','19260145','938983573','Peru')
-insert into grupo3.HUESPED(huesped_id,nombre,apellido,dni,telefono,pais) values (2,'Manuel','Peña','28216507','974979650','Italia')
+insert into grupo3.HUESPED(huesped_id,nombre,apellido,dni,telefono,pais) values (2,'Manuel','PeÃ±a','28216507','974979650','Italia')
 insert into grupo3.HUESPED(huesped_id,nombre,apellido,dni,telefono,pais) values (3,'Rodrigo','Cueva','30687765','960489053','USA')
 insert into grupo3.HUESPED(huesped_id,nombre,apellido,dni,telefono,pais) values (4,'Alfredo','Carrillo','40640202','994755957','USA')
 insert into grupo3.HUESPED(huesped_id,nombre,apellido,dni,telefono,pais) values (5,'Alex','Quispe','84102832','914950453','Italia')
 insert into grupo3.HUESPED(huesped_id,nombre,apellido,dni,telefono,pais) values (6,'Adriana','Ramirez','14967183','912904543','Argentina')
-insert into grupo3.HUESPED(huesped_id,nombre,apellido,dni,telefono,pais) values (7,'Felipe','Aguirre','36343437','919047180','España')
+insert into grupo3.HUESPED(huesped_id,nombre,apellido,dni,telefono,pais) values (7,'Felipe','Aguirre','36343437','919047180','EspaÃ±a')
 insert into grupo3.HUESPED(huesped_id,nombre,apellido,dni,telefono,pais) values (8,'Isabel','Lazo','46978460','916196596','USA')
-insert into grupo3.HUESPED(huesped_id,nombre,apellido,dni,telefono,pais) values (9,'Silvia','Peña','83376698','925283252','Italia')
+insert into grupo3.HUESPED(huesped_id,nombre,apellido,dni,telefono,pais) values (9,'Silvia','PeÃ±a','83376698','925283252','Italia')
 insert into grupo3.HUESPED(huesped_id,nombre,apellido,dni,telefono,pais) values (10,'Andrea','Carrillo','55047959','943284349','Peru')
 insert into grupo3.HUESPED(huesped_id,nombre,apellido,dni,telefono,pais) values (11,'Maria','Diaz','40202737','977486006','USA')
 INSERT into grupo3.HUESPED(huesped_id,nombre,apellido,dni,telefono,pais) values (12,'Fernanda','Lopez','50238972','984478269','USA')
