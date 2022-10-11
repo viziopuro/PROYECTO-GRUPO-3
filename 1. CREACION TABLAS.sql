@@ -1,4 +1,4 @@
--- Grupo 3 Creación de tablas
+-- Grupo 3 CreaciÃ³n de tablas
 
 /*1*/	IF OBJECT_ID('grupo3.RESERVA') IS NOT NULL DROP TABLE grupo3.RESERVA
 go
